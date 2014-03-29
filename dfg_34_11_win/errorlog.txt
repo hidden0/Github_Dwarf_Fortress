@@ -1,0 +1,1709 @@
+path fail: <invalid goal> cat,89,142,130 -> 166,132,129: Id #19541:Path Goal Seek Station:Station Vermin Hunting at 163,132,129
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (birchen barrel)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (maple barrel)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (larch barrel)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (oaken barrel)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (fungiwood barrel)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, chert figurine of Busm Tattoolock
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (acacia) <#4>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (acacia) <#4>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (palm) <#5>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (acacia) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (palm) <#5>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (palm) <#5>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (palm) <#5>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#5>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (acacia) <#4>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#5>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (acacia) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (acacia) <#4>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -palm barrel-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Gem Bin (palm) <#4>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (palm) <#5>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (acacia) <#4>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Gem Bin (palm) <#4>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Gem Bin (palm) <#4>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Gem Bin (palm) <#4>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, palm barrel
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (acacia) <#4>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Gem Bin (palm) <#4>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (acacia) <#5>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (acacia) <#4>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (acacia) <#4>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (alpaca wool quiver)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (acacia) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#5>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (acacia) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#5>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, acacia barrel
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#5>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#5>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -acacia barrel-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (acacia) <#4>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (acacia) <#4>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (acacia) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#5>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *acacia barrel*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (palm) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (palm) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (palm) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (palm) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (palm) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (palm) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (palm) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (palm) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (palm) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (palm) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#5>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (palm) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#5>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#5>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (palm) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#5>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (palm) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (palm) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (acacia) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#5>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (palm) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (palm) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#5>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (palm) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (acacia) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (naked mole dog leather quiver)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (acacia) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#5>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (palm) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (acacia) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (acacia) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (acacia) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (acacia) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#5>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (acacia) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (acacia) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (acacia) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (acacia) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Weapon Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (naked mole dog leather quiver)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (palm) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (palm) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Weapon Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (chestnut bucket)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (naked mole dog leather quiver)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Weapon Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (acacia) <#4>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Weapon Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Gem Bin (palm) <#4>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (palm) <#5>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðGem Bin (acacia) <#4>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (palm) <#5>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (palm) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (palm) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Weapon Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (palm) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Gem Bin (palm) <#4>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðGem Bin (acacia) <#4>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (palm) <#5>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#5>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Weapon Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (palm) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#5>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (palm) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (alpaca wool quiver)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Weapon Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (copper crossbow)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#5>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (palm) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Weapon Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#5>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, palm crossbow
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#5>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Finished Goods Bin (acacia) <#5>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (chestnut bucket)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Finished Goods Bin (acacia) <#5>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (palm) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (rhinoceros leather quiver)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Finished Goods Bin (acacia) <#5>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Weapon Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Weapon Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Finished Goods Bin (acacia) <#5>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Weapon Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, palm crossbow
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +acacia crossbow+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Weapon Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Finished Goods Bin (acacia) <#5>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Weapon Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (rhinoceros leather quiver)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Weapon Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Finished Goods Bin (acacia) <#5>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðGem Bin (acacia) <#4>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Gem Bin (palm) <#4>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðGem Bin (acacia) <#4>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Gem Bin (palm) <#4>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðGem Bin (acacia) <#4>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðGem Bin (acacia) <#4>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (acacia) <#4>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +palm barrel+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -acacia barrel-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðGem Bin (acacia) <#4>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (acacia) <#4>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðGem Bin (acacia) <#4>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *acacia barrel*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (acacia) <#4>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðGem Bin (acacia) <#4>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðGem Bin (acacia) <#4>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (acacia) <#4>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðGem Bin (acacia) <#4>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Weapon Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *acacia barrel*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðGem Bin (acacia) <#4>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (acacia) <#4>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðGem Bin (acacia) <#4>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Weapon Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðGem Bin (acacia) <#4>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +palm barrel+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (cedar barrel)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðGem Bin (acacia) <#4>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðGem Bin (acacia) <#4>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Weapon Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðGem Bin (acacia) <#4>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Armor Bin (ashen) <#8>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Weapon Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Armor Bin (ashen) <#8>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (acacia) <#4>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Armor Bin (ashen) <#8>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (acacia) <#4>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (acacia) <#4>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Gem Bin (palm) <#4>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Armor Bin (ashen) <#8>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (acacia) <#4>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (acacia) <#4>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Weapon Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Weapon Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Ammo Bin (palm) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Gem Bin (palm) <#4>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Gem Bin (palm) <#4>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (palm) <#5>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (acacia) <#4>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Gem Bin (palm) <#4>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðGem Bin (acacia) <#4>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (palm) <#5>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Weapon Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðGem Bin (acacia) <#4>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Weapon Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (acacia) <#4>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (acacia) <#4>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Weapon Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (acacia) <#4>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Weapon Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Gem Bin (palm) <#4>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Weapon Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +acacia crossbow+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Weapon Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðGem Bin (acacia) <#4>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Weapon Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Armor Bin (ashen) <#8>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (acacia) <#4>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðGem Bin (acacia) <#4>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Armor Bin (ashen) <#8>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Weapon Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðGem Bin (acacia) <#4>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, acacia crossbow
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (acacia) <#4>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Weapon Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðGem Bin (acacia) <#4>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðGem Bin (acacia) <#4>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (palm) <#5>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Weapon Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Armor Bin (ashen) <#8>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (palm) <#5>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðGem Bin (acacia) <#4>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðGem Bin (acacia) <#4>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Weapon Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (acacia) <#4>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðGem Bin (acacia) <#4>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (acacia) <#4>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (acacia) <#4>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (palm) <#5>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Armor Bin (ashen) <#8>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (acacia) <#4>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðGem Bin (acacia) <#4>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Armor Bin (ashen) <#8>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (acacia) <#4>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðGem Bin (acacia) <#4>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (acacia) <#4>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (acacia) <#4>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðGem Bin (acacia) <#4>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (acacia) <#4>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (acacia) <#4>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (tower-cap barrel)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (acacia) <#4>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (palm) <#5>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (acacia) <#4>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (palm) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (birchen barrel)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Weapon Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (palm) <#5>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (palm) <#5>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -tower-cap splint-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, acacia crossbow
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (palm) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (willow barrel)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Weapon Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (palm) <#5>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Armor Bin (ashen) <#8>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (palm) <#5>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (chestnut barrel)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (palm) <#5>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (larch barrel)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (tower-cap barrel)
+loop path fail: <same square> dwarf,Sleep,134,99,170 -> 175,107,170: Id #4328:Path Goal Sleep Bed:Station Mill Building at 122,91,170
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +palm barrel+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (alder barrel)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (tower-cap barrel)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (chestnut barrel)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (saguaro rib barrel)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (tower-cap barrel)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (alder barrel)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (larch barrel)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (palm) <#5>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (bismuth bronze crossbow)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (palm) <#5>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, palm crossbow
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Weapon Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (palm) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Weapon Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (birchen barrel)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Armor Bin (ashen) <#8>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (palm) <#5>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Weapon Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (birchen barrel)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (palm) <#5>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (palm) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (palm) <#5>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (palm) <#5>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (palm) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (palm) <#5>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (palm) <#5>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (palm) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (palm) <#5>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (chestnut bucket)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (fungiwood barrel)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -palm bucket-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (palm) <#5>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (palm) <#5>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (palm) <#5>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (palm) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (palm) <#5>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (palm) <#5>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (palm) <#5>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Weapon Bin (ashen) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, palm crossbow
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (copper crossbow)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (copper battle axe)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Weapon Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (alder barrel)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Armor Bin (ashen) <#8>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (alder barrel)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (ashen barrel)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Weapon Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Armor Bin (ashen) <#8>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (chestnut bucket)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Weapon Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Armor Bin (ashen) <#8>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Weapon Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +copper spear+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -copper battle axe-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Weapon Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Armor Bin (ashen) <#8>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (tower-cap barrel <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (palm) <#6>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (palm) <#6>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (palm) <#6>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (palm) <#6>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðpalm bucketð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (palm) <#6>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (fungiwood barrel)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (fungiwood barrel)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (palm) <#6>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (tower-cap barrel)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (palm) <#6>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Finished Goods Bin (acacia) <#6>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (palm) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Ammo Bin (palm) <#7>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Cloth Bin (tower-cap) <#8>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Finished Goods Bin (willow) <#6>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Ammo Bin (palm) <#7>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Ammo Bin (palm) <#7>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, granite
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Ammo Bin (palm) <#7>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (palm) <#6>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Ammo Bin (palm) <#7>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Ammo Bin (palm) <#7>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Ammo Bin (palm) <#7>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Ammo Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Ammo Bin (palm) <#7>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Ammo Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Ammo Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Finished Goods Bin (acacia) <#6>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Ammo Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Ammo Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Ammo Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðPlant Barrel (palm) <#1>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (palm) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Ammo Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Ammo Bin (palm) <#7>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðPlant Barrel (palm) <#1>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Ammo Bin (palm) <#7>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Seed Barrel (acacia) <#2>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðPlant Barrel (palm) <#1>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðPlant Barrel (palm) <#1>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Ammo Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (fungiwood) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Ammo Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Ammo Bin (acacia) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Ammo Bin (palm) <#7>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Ammo Bin (palm) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Ammo Bin (palm) <#7>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Ammo Bin (palm) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Ammo Bin (palm) <#7>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Ammo Bin (palm) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Ammo Bin (palm) <#7>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Ammo Bin (palm) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Ammo Bin (palm) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Ammo Bin (palm) <#7>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (tower-cap) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Seed Barrel (acacia) <#2>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðAmmo Bin (palm) <#7>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Plant Barrel (palm) <#1>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (fungiwood barrel)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Plant Barrel (palm) <#1>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Plant Barrel (palm) <#1>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (saguaro rib barrel)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Plant Barrel (palm) <#1>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Plant Barrel (palm) <#1>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Plant Barrel (palm) <#1>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Plant Barrel (palm) <#1>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðpalm barrelð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Plant Barrel (palm) <#1>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Plant Barrel (palm) <#1>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Ammo Bin (palm) <#16>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (palm) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Gem Bin (palm) <#9>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (palm) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (palm) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Gem Bin (acacia) <#9>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (palm) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Ammo Bin (palm) <#16>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (palm) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (palm) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (palm) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *dingo bone bolts [5]*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðpalm barrelð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Seed Barrel (acacia) <#2>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Gem Bin (acacia) <#9>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Plant Barrel (palm) <#1>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Ammo Bin (palm) <#16>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (palm) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (palm) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (palm) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Seed Barrel (acacia) <#2>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Plant Barrel (palm) <#1>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (palm) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Ammo Bin (palm) <#16>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Seed Barrel (acacia) <#2>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (ostrich leather quiver)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðPlant Barrel (acacia) <#1>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðPlant Barrel (acacia) <#1>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (palm) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Ammo Bin (palm) <#16>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (palm) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (palm) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (palm) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Plant Barrel (palm) <#1>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðPlant Barrel (acacia) <#1>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (palm) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðPlant Barrel (acacia) <#1>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Ammo Bin (palm) <#16>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Seed Barrel (acacia) <#2>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðPlant Barrel (acacia) <#1>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (-osprey leather quiver-)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðPlant Barrel (acacia) <#1>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (cave spider silk quiver)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (cat leather quiver)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðPlant Barrel (acacia) <#1>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Seed Barrel (acacia) <#2>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Plant Barrel (palm) <#1>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Seed Barrel (acacia) <#2>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðPlant Barrel (acacia) <#1>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Seed Barrel (acacia) <#2>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðacacia bucketð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (cave spider silk quiver)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Ammo Bin (palm) <#16>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (cat leather quiver)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (palm) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (cat leather quiver)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðPlant Barrel (acacia) <#1>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðpalm bucketð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Plant Barrel (palm) <#1>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðacacia bucketð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Plant Barrel (palm) <#1>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (cat leather quiver)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðacacia bucketð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Plant Barrel (palm) <#1>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðPlant Barrel (acacia) <#1>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðpalm bucketð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (cat leather quiver)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðPlant Barrel (acacia) <#1>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðPlant Barrel (acacia) <#1>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (-osprey leather quiver-)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðPlant Barrel (acacia) <#1>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (palm) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (llama leather backpack)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Plant Barrel (palm) <#1>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, dacite
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (acacia) <#6>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (palm) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðPlant Barrel (acacia) <#1>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Ammo Bin (palm) <#16>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Plant Barrel (palm) <#1>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Finished Goods Bin (acacia) <#6>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Ammo Bin (palm) <#16>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðpalm bucketð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (tower-cap) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Ammo Bin (palm) <#16>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (-ashen bucket-)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðAmmo Bin (palm) <#14>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (tower-cap) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Finished Goods Bin (acacia) <#6>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Finished Goods Bin (acacia) <#6>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Ammo Bin (palm) <#16>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (tower-cap) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Finished Goods Bin (acacia) <#6>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðPlant Barrel (acacia) <#1>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Ammo Bin (palm) <#16>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Plant Barrel (palm) <#1>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (tower-cap) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (tower-cap) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (tower-cap) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, pig tail seeds
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Plant Barrel (palm) <#1>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðAmmo Bin (palm) <#14>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (tower-cap) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Plant Barrel (palm) <#1>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Gem Bin (palm) <#9>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (tower-cap) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (tower-cap) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Ammo Bin (palm) <#16>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (tower-cap) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Ammo Bin (palm) <#14>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (tower-cap) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (horse leather quiver)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (tower-cap) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Ammo Bin (palm) <#14>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðPlant Barrel (acacia) <#1>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Ammo Bin (palm) <#16>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Seed Barrel (acacia) <#2>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (tower-cap) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Plant Barrel (palm) <#1>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *gray langur bone bolt*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Plant Barrel (palm) <#1>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Ammo Bin (palm) <#16>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðAmmo Bin (palm) <#14>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Ammo Bin (palm) <#16>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Ammo Bin (palm) <#16>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Plant Barrel (palm) <#1>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðAmmo Bin (palm) <#14>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Ammo Bin (palm) <#16>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðPlant Barrel (acacia) <#1>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Plant Barrel (palm) <#1>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Ammo Bin (palm) <#16>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Ammo Bin (palm) <#16>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (tower-cap barrel)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Ammo Bin (palm) <#16>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Ammo Bin (palm) <#16>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +palm barrel+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðpalm barrelð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (tower-cap) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðAmmo Bin (palm) <#16>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðacacia barrelð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (palm) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Ammo Bin (palm) <#16>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (tower-cap) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Ammo Bin (palm) <#16>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðacacia barrelð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (ashen barrel)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Ammo Bin (palm) <#16>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Ammo Bin (palm) <#16>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (-ashen bucket-)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Ammo Bin (palm) <#16>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Ammo Bin (palm) <#16>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, microcline
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðacacia barrelð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Gem Bin (palm) <#9>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Gem Bin (palm) <#9>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Gem Bin (palm) <#9>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Gem Bin (palm) <#9>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Gem Bin (acacia) <#9>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Gem Bin (palm) <#9>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (fungiwood) <#6>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Gem Bin (acacia) <#9>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Gem Bin (palm) <#9>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (fungiwood) <#6>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Gem Bin (palm) <#9>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (tower-cap) <#6>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Gem Bin (palm) <#9>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Gem Bin (palm) <#9>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Gem Bin (palm) <#9>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Gem Bin (palm) <#9>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Gem Bin (palm) <#9>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Gem Bin (palm) <#9>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Gem Bin (palm) <#9>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Gem Bin (palm) <#9>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Gem Bin (palm) <#9>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (acacia) <#6>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (tower-cap) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Gem Bin (palm) <#9>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Ammo Bin (palm) <#16>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Gem Bin (palm) <#9>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (ostrich leather quiver)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Gem Bin (palm) <#9>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Gem Bin (palm) <#9>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Gem Bin (palm) <#9>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (tower-cap) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Ammo Bin (palm) <#16>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Gem Bin (palm) <#9>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (tower-cap) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Gem Bin (palm) <#9>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (tower-cap) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Ammo Bin (palm) <#16>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Gem Bin (palm) <#9>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Gem Bin (palm) <#9>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Gem Bin (acacia) <#9>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðPlant Barrel (acacia) <#1>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (tower-cap) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (tower-cap) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðPlant Barrel (acacia) <#1>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Plant Barrel (palm) <#1>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (giant cave spider silk quiver)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (cave spider silk quiver)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Plant Barrel (palm) <#1>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (palm) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Ammo Bin (palm) <#16>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Finished Goods Bin (acacia) <#6>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Finished Goods Bin (acacia) <#6>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Plant Barrel (palm) <#1>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðPlant Barrel (acacia) <#1>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Plant Barrel (palm) <#1>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Plant Barrel (palm) <#1>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (fungiwood) <#6>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (tower-cap) <#6>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Finished Goods Bin (acacia) <#6>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Finished Goods Bin (acacia) <#6>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Finished Goods Bin (acacia) <#6>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (tower-cap) <#6>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Finished Goods Bin (acacia) <#6>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (-ashen bucket-)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Finished Goods Bin (fungiwood) <#6>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Ammo Bin (palm) <#16>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (-ashen bucket-)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Gem Bin (palm) <#9>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (fungiwood) <#6>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Plant Barrel (palm) <#1>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (tower-cap) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Plant Barrel (palm) <#1>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Plant Barrel (palm) <#1>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Plant Barrel (palm) <#1>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Plant Barrel (palm) <#1>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Plant Barrel (palm) <#1>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðPlant Barrel (acacia) <#1>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (tower-cap) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (tower-cap) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *acacia bucket*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðpalm bucketð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Gem Bin (palm) <#9>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Gem Bin (palm) <#9>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Ammo Bin (palm) <#16>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Gem Bin (palm) <#9>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðpalm bucketð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Gem Bin (palm) <#9>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Gem Bin (acacia) <#9>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðSeed Barrel (palm) <#2>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (tower-cap) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðpalm bucketð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *palm bucket*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Plant Barrel (palm) <#1>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Plant Barrel (palm) <#1>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Ammo Bin (palm) <#16>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Plant Barrel (palm) <#1>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Plant Barrel (palm) <#1>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Plant Barrel (palm) <#1>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Plant Barrel (palm) <#1>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðPlant Barrel (acacia) <#1>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Plant Barrel (palm) <#1>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Plant Barrel (palm) <#1>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Plant Barrel (palm) <#1>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (saguaro rib) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *palm bucket*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +acacia bucket+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (saguaro rib) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Plant Barrel (palm) <#1>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (saguaro rib) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (saguaro rib) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (saguaro rib) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (saguaro rib) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (saguaro rib) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Plant Barrel (palm) <#1>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (saguaro rib) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (saguaro rib) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Plant Barrel (palm) <#1>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Gem Bin (palm) <#9>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Plant Barrel (palm) <#1>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðPlant Barrel (acacia) <#1>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Gem Bin (palm) <#9>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Gem Bin (acacia) <#9>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Gem Bin (palm) <#9>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Plant Barrel (palm) <#1>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðacacia bucketð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðacacia bucketð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðacacia bucketð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *willow bucket*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Plant Barrel (palm) <#1>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Plant Barrel (acacia) <#1>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Plant Barrel (palm) <#1>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Plant Barrel (palm) <#1>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Plant Barrel (palm) <#1>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+path fail: dwarf,Clean,85,114,175 -> 74,115,175: Id #2268:Path Goal Clean:Station Mill Building at 62,96,173
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (alder) <#6>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (birchen) <#6>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (saguaro rib) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Plant Barrel (acacia) <#1>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðacacia bucketð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Plant Barrel (acacia) <#1>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Plant Barrel (acacia) <#1>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Longland grass [2]
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +acacia bucket+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Plant Barrel (acacia) <#1>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, cave wheat
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (birchen) <#6>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Plant Barrel (acacia) <#1>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, cave wheat [4]
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Gem Bin (palm) <#9>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, plump helmets [2]
+DOUBLE TAGGED ITEM: Store Item in Stockpile, pig tails [4]
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Plant Barrel (acacia) <#1>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +acacia bucket+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Plant Barrel (acacia) <#1>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðacacia bucketð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (alder) <#6>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *acacia bucket*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +acacia bucket+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Plant Barrel (acacia) <#1>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (alder) <#6>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Plant Barrel (acacia) <#1>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Plant Barrel (acacia) <#1>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Plant Barrel (palm) <#1>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (alder) <#6>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Plant Barrel (acacia) <#1>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Plant Barrel (acacia) <#1>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Gem Bin (palm) <#9>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Gem Bin (acacia) <#9>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, pig tail
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (saguaro rib) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Cloth Bin (tower-cap) <#8>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Cloth Bin (tower-cap) <#8>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Plant Barrel (palm) <#1>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (saguaro rib) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (saguaro rib) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Cloth Bin (tower-cap) <#8>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (palm) <#6>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Cloth Bin (tower-cap) <#8>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (palm) <#6>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Cloth Bin (tower-cap) <#8>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Finished Goods Bin (acacia) <#6>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Cloth Bin (tower-cap) <#8>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Finished Goods Bin (acacia) <#6>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Finished Goods Bin (willow) <#6>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (saguaro rib) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Finished Goods Bin (acacia) <#6>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Cloth Bin (tower-cap) <#8>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Gem Bin (palm) <#9>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Finished Goods Bin (acacia) <#6>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Finished Goods Bin (willow) <#6>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Finished Goods Bin (willow) <#6>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Finished Goods Bin (acacia) <#6>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Finished Goods Bin (willow) <#6>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Finished Goods Bin (willow) <#6>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Finished Goods Bin (acacia) <#6>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (saguaro rib) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Finished Goods Bin (willow) <#6>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, x(cave spider silk robe)x
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Finished Goods Bin (acacia) <#6>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Finished Goods Bin (willow) <#6>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Gem Bin (palm) <#9>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Plant Barrel (palm) <#1>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (birchen) <#6>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðSeed Barrel (palm) <#2>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (palm) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (tower-cap) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (palm) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (palm) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (palm) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (palm) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Plant Barrel (palm) <#1>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (palm) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (birchen) <#6>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (palm) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (fungiwood) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (palm) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (palm) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (tower-cap) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Gem Bin (palm) <#9>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (palm) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (palm) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (tower-cap) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (palm) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (palm) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (birchen) <#6>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (palm) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (palm) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (palm) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (palm) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (palm) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (palm) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+loop path fail: <same square> buck rabbit,64,98,173 -> 66,100,173: Id #2654:Path Goal Seek Station:Station Owner at 67,99,173
+loop path fail: <same square> buck rabbit,65,99,173 -> 66,100,173: Id #2654:Path Goal Seek Station:Station Owner at 67,99,173
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (palm) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (palm) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (birchen) <#6>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (palm) <#6>ð
+loop path fail: <same square> dwarf,Drink,60,95,173 -> 58,100,173: Id #2458:Path Goal Seek Drink Item:Station Mill Building at 69,99,173
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (palm) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Gem Bin (acacia) <#9>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (tower-cap) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+loop path fail: <same square> duck,66,96,173 -> 70,94,173: Id #2793:Path Goal Seek Station:Station Owner at 70,93,173
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Finished Goods Bin (willow) <#6>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Finished Goods Bin (willow) <#6>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (birchen) <#6>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Cloth Bin (tower-cap) <#8>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (birchen) <#6>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (cave spider silk quiver)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (giant cave spider silk quiver)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Plant Barrel (palm) <#1>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðAmmo Bin (acacia) <#7>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðAmmo Bin (acacia) <#7>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Gem Bin (acacia) <#9>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Plant Barrel (tower-cap) <#1>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, gold nuggets
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Gem Bin (acacia) <#9>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðSeed Barrel (palm) <#2>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (tower-cap) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Finished Goods Bin (acacia) <#6>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (birchen) <#6>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (tower-cap) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (birchen) <#6>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (birchen) <#6>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Gem Bin (acacia) <#9>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (birchen) <#6>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (birchen) <#6>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (acacia) <#6>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (birchen) <#6>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Finished Goods Bin (acacia) <#6>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (tower-cap) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (birchen) <#6>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (birchen) <#6>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Seed Barrel (saguaro rib) <#2>)
+path fail: dwarf,Execute Criminal,60,96,171 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,58,97,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,58,97,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,58,97,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,58,97,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,58,97,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,58,97,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,58,97,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,58,97,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,58,97,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,66,93,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,72,92,171 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,72,92,171 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,72,92,171 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,72,92,171 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Plant Barrel (palm) <#1>+
+path fail: dwarf,Execute Criminal,61,100,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,61,100,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,61,100,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (birchen) <#6>-
+path fail: dwarf,Execute Criminal,61,100,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,61,100,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,61,100,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,61,100,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,61,100,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,61,100,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,61,100,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,61,100,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,61,100,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,61,100,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,61,100,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,61,100,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,61,100,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,61,100,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,61,100,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,61,100,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
+path fail: dwarf,Execute Criminal,61,100,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,61,100,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+path fail: dwarf,Execute Criminal,61,100,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171

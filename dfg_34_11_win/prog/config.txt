@@ -1,0 +1,37 @@
+//Set the X and Y resolution.
+[X-RES:800]
+[Y-RES:600]
+
+//Enable or disable fullscreen.  Must be YES or NO.
+[FULLSCREEN:NO]
+
+//Details means trees and bushes.  Must be YES or NO.
+[DETAILS:YES]
+
+//Enable or disable skybox.  Must be YES or NO.
+[SKYBOX:NO]
+
+//Enable or disable textures.  Must be YES or NO.
+[TEXTURES:YES]
+
+//Enable or disable lighting.  Must be YES or NO.
+[LIGHTING:YES]
+
+//Specify the initial view distance.  Must be greater than 0.
+[VISDISTANCE:3]
+
+//Enable or disable larger textures.  Must be YES or NO.
+[BIGTEXTURES:NO]
+
+//Enable or disable the initial help message.  Must be YES or NO.
+[HELPPOPUP:YES]
+
+//Starting mode.  Must be NORMAL, SLICE, TOP, or HEIGHT.
+[STARTMODE:SLICE]
+
+//Height scaling.  Makes objects look taller.  1 is default
+[HEIGHTSCALE:1.5]
+
+//Compatibility mode.  If you experience glitches, set this to YES.  Must be YES or NO.
+[COMPATIBILITY:NO]
+

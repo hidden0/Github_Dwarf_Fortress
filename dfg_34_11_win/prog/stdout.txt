@@ -1,0 +1,14 @@
+mapName: axegear
+mapWidth: 9
+mapHeight: 9
+mapLayers: 37
+done second memory assigning
+until END OF FILE...
+0 - 1 - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 11 - 12 - 13 - 14 - 15 - 16 - 17 - 18 - 19 - 20 - 21 - 22 - 23 - 24 - 25 - 26 - 27 - 28 - 29 - 30 - 31 - 32 - 33 - 34 - 35 - 36 - END OF FILE
+File opened, loading into memory...
+starting displaylists.. done.
+XMAX: 73, YMAX: 19, ZMAX: 73
+Made it to loadMithaldu()
+Not found: 
+Freeing... phase 1 - 2 - 3 - done.
+Done compiling lists.
