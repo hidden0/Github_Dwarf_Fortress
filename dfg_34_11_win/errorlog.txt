@@ -1707,3 +1707,46 @@ DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (acacia) <#6>*
 path fail: dwarf,Execute Criminal,61,100,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
 path fail: dwarf,Execute Criminal,61,100,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
 path fail: dwarf,Execute Criminal,61,100,173 -> 56,134,177: Id #2799:Path Goal Grab Execution Weapon:Station None at 65,98,171
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (pine) <#6>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (pine) <#7>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (pine) <#6>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (pine) <#7>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Gem Bin (pine) <#6>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (pine) <#6>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Gem Bin (pine) <#6>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðFinished Goods Bin (pine) <#7>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Gem Bin (pine) <#6>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (tower-cap barrel)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (fungiwood barrel)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (alder barrel)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (pine) <#6>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (pine) <#6>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (pine) <#6>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Gem Bin (pine) <#6>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (pine) <#6>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (pine) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (cedar) <#7>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (cedar) <#7>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (cedar) <#7>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (pine) <#6>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (pine) <#6>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Gem Bin (pine) <#6>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (pine) <#6>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (pine) <#6>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Gem Bin (pine) <#6>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Finished Goods Bin (larch) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (larch) <#7>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (cedar) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (maple barrel)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Finished Goods Bin (larch) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Finished Goods Bin (larch) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Finished Goods Bin (larch) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Finished Goods Bin (larch) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Finished Goods Bin (larch) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Finished Goods Bin (larch) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Finished Goods Bin (larch) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (pine) <#6>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (pine) <#6>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (pine) <#6>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Gem Bin (pine) <#6>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Gem Bin (pine) <#6>-
