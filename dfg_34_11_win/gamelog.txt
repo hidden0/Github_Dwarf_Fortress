@@ -28751,3 +28751,1496 @@ Id Idenzalud, Jeweler cancels Brew Drink: Needs empty food storage item.
 K–buk Kulindomas, Farmer cancels Brew Drink: Needs empty food storage item.
 It has started raining.
 You have struck limonite!
+*** STARTING NEW GAME ***
+** Loading Fortress **
+The weather has cleared.
+Some migrants have arrived.
+The flying {*pine bolt*} strikes The Mountain Goat in the upper body, tearing the muscle and tearing the middle spine's nervous tissue!
+The Mountain Goat falls over.
+The flying ({bronze bolt}) strikes The Mountain Goat in the right rear leg, chipping the bone!
+A tendon has been torn!
+The Mountain Goat gives in to pain.
+The Mountain Goat falls over.
+The flying ({bronze bolt}) strikes The Mountain Goat in the left front leg, chipping the bone!
+A tendon has been torn!
+The Mountain Goat regains consciousness.
+The Mountain Goat gives in to pain.
+The Mountain Goat regains consciousness.
+The flying ({bronze bolt}) strikes The Mountain Goat in the left front leg, tearing the muscle!
+The Mountain Goat gives in to pain.
+The Mountain Goat regains consciousness.
+The Mountain Goat gives in to pain.
+The flying ({bronze bolt}) strikes The Mountain Goat in the lower body, tearing the muscle and tearing the pancreas!
+Id Idenzalud, manager cancels Cut citrine: Needs rough citrines.
+Kad“l –thirudil has created a masterpiece!
+The flying ({bronze bolt}) strikes The Mountain Goat in the upper body, tearing the muscle and chipping the middle spine's bone!
+A tendon in the middle spine has been torn!
+The ({bronze bolt}) has lodged firmly in the wound!
+The Mountain Goat gives in to pain.
+The Mountain Goat falls over.
+The flying ({bronze bolt}) strikes The Mountain Goat in the head, tearing the muscle and tearing the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The ({bronze bolt}) has lodged firmly in the wound!
+The Mountain Goat falls over.
+The Mountain Goat regains consciousness.
+The Mountain Goat is no longer stunned.
+The Mountain Goat gives in to pain.
+Id Idenzalud, manager cancels Cut aventurine: Needs rough aventurines.
+Id Idenzalud, manager cancels Cut ruby: Needs rough rubies.
+The flying ({bronze bolt}) strikes The Mountain Goat in the upper body, tearing the muscle, fracturing the left floating ribs and tearing the liver!
+A tendon in the left floating ribs has been torn!
+Id Idenzalud, manager cancels Cut bone opal: Needs rough bone opals.
+The Mountain Goat regains consciousness.
+The Mountain Goat is no longer stunned.
+The Mountain Goat gives in to pain.
+The flying ({bronze bolt}) strikes The Mountain Goat in the right rear leg, chipping the bone!
+A tendon has been torn!
+K–buk Kulindomas, Farmer cancels Butcher an Animal: Needs butcherable unrotten nearby item.
+The Mountain Goat regains consciousness.
+The Mountain Goat gives in to pain.
+The Stray Horse kicks The Stray Horse Foal in the right front leg with his left front hoof, but the attack glances away!
+The Stray Horse stands up.
+K–buk Kulindomas, Farmer cancels Brew Drink: Needs empty food storage item.
+Id Idenzalud, manager cancels Brew Drink: Needs empty food storage item.
+The flying {*pine bolt*} strikes The Mountain Goat in the right rear leg, chipping the bone!
+A tendon has been torn!
+The Mountain Goat gives in to pain.
+The Mountain Goat regains consciousness.
+The Mountain Goat gives in to pain.
+The flying {*pine bolt*} strikes The Mountain Goat in the lower body, tearing the muscle and tearing the left kidney!
+The {*pine bolt*} has lodged firmly in the wound!
+The Mountain Goat regains consciousness.
+The Mountain Goat is no longer stunned.
+The Mountain Goat gives in to pain.
+The flying {*pine bolt*} strikes The Mountain Goat in the right front leg, chipping the bone!
+A tendon has been torn!
+The Mountain Goat regains consciousness.
+Logem Uristzim, Hunter cancels Hunt: No ammunition.
+The Mountain Goat is no longer stunned.
+The Mountain Goat gives in to pain.
+Logem Solonostar has created a masterpiece!
+The flying ({bronze bolt}) strikes The Mountain Goat in the upper body, tearing the muscle and tearing the left lung!
+The Mountain Goat is having trouble breathing!
+The Mountain Goat regains consciousness.
+The Mountain Goat is no longer stunned.
+The Mountain Goat gives in to pain.
+The Mountain Goat regains consciousness.
+The Mountain Goat is no longer stunned.
+The flying ({bronze bolt}) strikes The Mountain Goat in the lower body, tearing the muscle and tearing the stomach!
+The flying ({bronze bolt}) strikes The Mountain Goat in the upper body, tearing the muscle and tearing the left lung!
+The Mountain Goat is having trouble breathing!
+The ({bronze bolt}) has lodged firmly in the wound!
+Construct rock Door (25) has been completed.
+The outpost liaison Sarvesh Momuz¢r from Ulingolin has arrived.
+A caravan from Ulingolin has arrived.
+The flying ({bronze bolt}) strikes The Mountain Goat in the right front leg, chipping the bone!
+A tendon has been torn!
+The Mountain Goat gives in to pain.
+The flying ({bronze bolt}) strikes The Mountain Goat in the left front leg, chipping the bone!
+A tendon has been torn!
+The Mountain Goat regains consciousness.
+The Mountain Goat is no longer stunned.
+The flying ({bronze bolt}) strikes The Mountain Goat in the right front hoof, chipping it!
+The ({bronze bolt}) has lodged firmly in the wound!
+The Mountain Goat gives in to pain.
+The flying ({bronze bolt}) strikes The Mountain Goat in the right rear leg, chipping the bone!
+A tendon has been torn!
+The Mountain Goat regains consciousness.
+The flying {-cedar bolt-} strikes The Mountain Goat in the right rear leg, chipping the bone!
+A tendon has been torn!
+The Mountain Goat is no longer stunned.
+Nish Shovethrig•th, Ranger cancels Hunt: No ammunition.
+The Mountain Goat gives in to pain.
+Oddom Odomoddom, Carpenter cancels Construct Bed: Needs logs.
+The Mountain Goat regains consciousness.
+The Mountain Goat gives in to pain.
+The flying {-cedar bolt-} strikes The Mountain Goat in the left front leg, chipping the bone!
+A tendon has been torn!
+Merchants have arrived and are unloading their goods.
+Moldath Bertangath, Fisherdwarf cancels Construct Bed: Needs logs.
+x2
+x3
+Moldath Bertangath, Fisherdwarf cancels Construct Bed: Needs logs.
+x2
+x3
+Moldath Bertangath, Fisherdwarf cancels Make wooden Barrel: Needs logs.
+x2
+x3
+x4
+The Stray Horse attacks The Stray Reindeer Calf but He jumps away!
+The Stray Horse stands up.
+The Mountain Goat regains consciousness.
+The Mountain Goat is no longer stunned.
+The Mountain Goat gives in to pain.
+The Mountain Goat regains consciousness.
+The Mountain Goat gives in to pain.
+You have struck chrysoprase!
+Moldath Bertangath, Fisherdwarf cancels Construct Bed: Needs logs.
+Moldath Bertangath, Fisherdwarf cancels Construct Bed: Needs logs.
+x2
+Moldath Bertangath, Fisherdwarf cancels Make wooden Barrel: Needs logs.
+The flying {-cedar bolt-} strikes The Mountain Goat in the lower body, tearing the muscle and tearing the guts!
+The Mountain Goat looks sick!
+The Mountain Goat vomits.
+The Mountain Goat retches.
+The Mountain Goat retches.
+The Mountain Goat vomits.
+The Mountain Goat retches.
+The Mountain Goat gives in to pain.
+The Mountain Goat vomits.
+The Mountain Goat retches.
+The Mountain Goat retches.
+The Mountain Goat vomits.
+The flying {-cedar bolt-} strikes The Mountain Goat in the upper body, tearing the muscle and tearing the heart!
+A major artery in the heart has been opened by the attack!
+The Mountain Goat retches.
+The Mountain Goat vomits.
+Oddom Odomoddom, Carpenter cancels Make wooden Barrel: Needs logs.
+x2
+x3
+The flying {-larch bolt-} strikes The Mountain Goat in the lower body, tearing the muscle and tearing the guts!
+The Mountain Goat looks sick!
+The {-larch bolt-} has lodged firmly in the wound!
+The Mountain Goat vomits.
+The Mountain Goat retches.
+The Mountain Goat vomits.
+The Mountain Goat retches.
+The Mountain Goat vomits.
+The Mountain Goat retches.
+The Mountain Goat vomits.
+The Mountain Goat retches.
+The Mountain Goat vomits.
+The Mountain Goat retches.
+The Mountain Goat vomits.
+The Mountain Goat retches.
+The Mountain Goat vomits.
+The Mountain Goat retches.
+The Mountain Goat vomits.
+The Mountain Goat retches.
+The flying {-larch bolt-} strikes The Mountain Goat in the head, tearing the muscle, jamming the skull through the brain and tearing the brain!
+A tendon in the skull has been torn!
+The Mountain Goat has been knocked unconscious!
+Oddom Odomoddom, Carpenter cancels Construct Bed: Needs logs.
+x2
+x3
+x4
+Oddom Odomoddom, Carpenter cancels Make wooden Barrel: Needs logs.
+x2
+x3
+x4
+x5
+x6
+Oddom Odomoddom, Carpenter cancels Construct Bed: Needs logs.
+x2
+x3
+x4
+Oddom Odomoddom, Carpenter cancels Make wooden Barrel: Needs logs.
+x2
+x3
+x4
+Oddom Odomoddom, Carpenter cancels Make wooden Barrel: Needs logs.
+Winter is upon you.
+The flying {-larch bolt-} strikes The Cow Moose in the upper body, tearing the muscle and tearing the middle spine's nervous tissue!
+The Cow Moose falls over.
+The flying {-larch bolt-} strikes The Cow Moose in the upper body, tearing the muscle and chipping the right false ribs!
+The flying {-larch bolt-} strikes The Cow Moose in the left front leg, tearing the muscle!
+Dod¢k Usengusil has become a Herbalist.
+Construct rock Table (20) has been completed.
+Thob Nisherar has become a broker.
+Thob Tomˆmshorast has created a masterpiece!
+Construct Bed (30) has been completed.
+Construct rock Armor Stand (3) has been completed.
+Construct rock Weapon Rack (3) has been completed.
+The merchants from Ulingolin will be leaving soon.
+The flying {-cedar bolt-} strikes The Cow Moose in the lower body, tearing the muscle and bruising the stomach!
+Oddom Odomoddom, Carpenter cancels Make wooden Barrel: Needs logs.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+Moldath Bertangath, Fisherdwarf cancels Make wooden Barrel: Needs logs.
+The flying {-cedar bolt-} strikes The Cow Moose in the left front leg, chipping the bone!
+A tendon has been torn!
+The Cow Moose gives in to pain.
+The Cow Moose falls over.
+The flying {-cedar bolt-} strikes The Cow Moose in the left front leg, chipping the bone!
+A tendon has been torn!
+The flying {-cedar bolt-} strikes The Cow Moose in the right front leg, chipping the bone!
+A tendon has been torn!
+The Cow Moose regains consciousness.
+The Cow Moose is no longer stunned.
+The flying {-cedar bolt-} strikes The Cow Moose in the upper body, tearing the muscle and chipping the left true ribs!
+A tendon in the left true ribs has been torn!
+The Cow Moose gives in to pain.
+The flying {-cedar bolt-} strikes The Cow Moose in the lower body, tearing the muscle and tearing the guts!
+The Cow Moose looks sick!
+The Cow Moose vomits.
+The Cow Moose retches.
+The Cow Moose vomits.
+The Cow Moose retches.
+The Cow Moose vomits.
+The Cow Moose retches.
+The flying {-cedar bolt-} strikes The Cow Moose in the head, tearing the muscle and tearing the upper spine's nervous tissue!
+An artery has been opened by the attack!
+A tendon in the upper spine has been torn!
+The Cow Moose regains consciousness.
+The Cow Moose is no longer stunned.
+The flying {+cedar bolt+} strikes The Cow Moose in the lower body, tearing the muscle and tearing the stomach!
+Oddom Odomoddom, Carpenter cancels Make wooden Barrel: Needs logs.
+x2
+x3
+x4
+The flying {+cedar bolt+} strikes The Cow Moose in the left rear leg, chipping the bone!
+A tendon has been torn!
+Oddom Odomoddom, Carpenter cancels Make wooden Barrel: Needs logs.
+x2
+x3
+The merchants from Ulingolin have embarked on their journey.
+Nish Shovethrig•th has become a Hunter.
+Construct Mechanisms (15) has been completed.
+Logem Solonostar has constructed a masterpiece!
+An animal has grown to become a Stray Reindeer Bull.
+You have struck green jade!
+You have struck amethyst!
+Make wooden Barrel (30) has been completed.
+You have struck tetrahedrite!
+You have struck limonite!
+You have struck sylvite!
+You have struck borax!
+You have struck jet!
+Construct rock Door (20) has been completed.
+Ingish Gikendeler, Metalcrafter cancels Construct Building: Item blocking site.
+The dwarves suspended the construction of Bed.
+Dod¢k Usengusil, Herbalist cancels Brew Drink: Needs distillable item.
+Id Idenzalud, manager cancels Brew Drink: Needs distillable item.
+Make wooden Wheelbarrow (10) has been completed.
+A snow storm has come.
+Thob Tomˆmshorast has created a masterpiece!
+The weather has cleared.
+Construct rock Door (15) has been completed.
+You have struck blue jade!
+The flying {-larch bolt-} strikes The Bull Moose in the throat, tearing the skin!
+A major artery has been opened by the attack!
+The flying {+cedar bolt+} strikes The Bull Moose in the lower body, tearing the muscle and bruising the guts!
+The Bull Moose looks sick!
+The Bull Moose vomits.
+The Bull Moose retches.
+The Bull Moose vomits.
+A snow storm has come.
+Dod¢k Usengusil has become a Farmer.
+** Loading Fortress **
+The weather has cleared.
+The flying {+cedar bolt+} strikes The Great Horned Owl in the right upper leg, fracturing the bone!
+An artery has been opened by the attack and a tendon has been torn!
+The Great Horned Owl falls over.
+The Great Horned Owl gives in to pain.
+The flying {-larch bolt-} strikes The Great Horned Owl in the lower body, tearing the muscle and tearing the guts!
+The Great Horned Owl looks sick!
+The Great Horned Owl regains consciousness.
+The flying {+cedar bolt+} strikes The Great Horned Owl in the lower body, tearing the muscle and tearing the stomach!
+The Great Horned Owl vomits.
+The Great Horned Owl retches.
+The Great Horned Owl gives in to pain.
+The Great Horned Owl vomits.
+The Great Horned Owl retches.
+The Great Horned Owl regains consciousness.
+The flying {+cedar bolt+} strikes The Great Horned Owl in the left upper leg, fracturing the bone!
+A tendon has been torn!
+The Great Horned Owl vomits.
+The Great Horned Owl is no longer stunned.
+The Great Horned Owl gives in to pain.
+The Great Horned Owl vomits.
+The Great Horned Owl retches.
+The Great Horned Owl vomits.
+The Great Horned Owl retches.
+The flying {+cedar bolt+} strikes The Great Horned Owl in the upper body, tearing the muscle and tearing the left lung!
+An artery has been opened by the attack!
+The Great Horned Owl is having trouble breathing!
+The Great Horned Owl vomits.
+The Great Horned Owl retches.
+The Great Horned Owl vomits.
+The Great Horned Owl retches.
+The flying {+cedar bolt+} strikes The Great Horned Owl in the left wing, fracturing the bone!
+A tendon has been torn!
+The Great Horned Owl vomits.
+The Great Horned Owl regains consciousness.
+The Great Horned Owl retches.
+The Great Horned Owl vomits.
+The Great Horned Owl retches.
+The Great Horned Owl is no longer stunned.
+The Great Horned Owl retches.
+The flying {+cedar bolt+} strikes The Great Horned Owl in the upper body, tearing the muscle and tearing apart the left lung!
+The Great Horned Owl is having trouble breathing!
+The {+cedar bolt+} has lodged firmly in the wound!
+The Great Horned Owl vomits.
+The Great Horned Owl retches.
+The Great Horned Owl gives in to pain.
+The Great Horned Owl vomits.
+The flying {+cedar bolt+} strikes The Great Horned Owl in the left lower leg, fracturing the bone!
+A ligament has been torn and a tendon has been torn!
+Spring has arrived!
+The flying {-larch bolt-} strikes The Mountain Goat in the head, tearing the muscle, jamming the skull through the brain and tearing the brain!
+The Mountain Goat has been knocked unconscious!
+The {-larch bolt-} has lodged firmly in the wound!
+Nish Shovethrig•th, Hunter cancels Return Kill: Could not find path.
+Thob Nisherar, broker cancels Give Water: Need empty bucket.
+The flying {-larch bolt-} strikes The Badger Sow in the right front leg, chipping the bone!
+A tendon has been torn!
+The Badger Sow gives in to pain.
+The Badger Sow falls over.
+The flying {-larch bolt-} strikes The Badger Sow in the upper body, tearing the muscle and tearing the middle spine's nervous tissue!
+A tendon in the middle spine has been torn!
+Thob Nisherar, broker cancels Give Water: Need empty bucket.
+The Badger Sow regains consciousness.
+Thob Nisherar, broker cancels Give Water: Need empty bucket.
+The flying {-larch bolt-} strikes The Badger Sow in the head, tearing the muscle and shattering the skull!
+A tendon in the skull has been torn!
+The Badger Sow is no longer stunned.
+Nish Shovethrig•th, Hunter cancels Hunt: No ammunition.
+Thob Nisherar, broker cancels Give Water: Need empty bucket.
+The Stray Bull Calf (Tame) has starved to death.
+A snow storm has come.
+The broker Thob Nisherar has organized a party at sylvite Table.
+** Loading Fortress **
+Logem Uristzim, Hunter has grown attached to a bronze crossbow!
+The weather has cleared.
+Stray Horse (Tame) has given birth to a horse foal.
+The flying {+cedar bolt+} strikes The Badger Sow in the head, tearing the muscle and tearing the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The Badger Sow falls over.
+The flying {+cedar bolt+} strikes The Badger Sow in the right rear leg, chipping the bone!
+A tendon has been torn!
+The Badger Boar has become enraged!
+Badger Boar is no longer enraged.
+Ingish Gikendeler, Metalcrafter cancels Forge iron Chain: Needs refined coal.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+The flying ({+®bronze bolt¯+}) strikes The Badger Sow in the left front leg, tearing the muscle!
+Ingish Gikendeler, Metalcrafter cancels Forge iron Chain: Needs refined coal.
+x2
+x3
+x4
+x5
+The flying ({+®bronze bolt¯+}) strikes The Badger Boar in the lower body, tearing the muscle and tearing the pancreas!
+The Badger Boar is propelled away by the force of the blow!
+The Badger Boar's right front leg skids along the ground, bruising the muscle!
+The Badger Boar slams into an obstacle!
+The Badger Boar is no longer stunned.
+The Badger Boar stands up.
+Ingish Gikendeler, Metalcrafter cancels Forge iron Chain: Needs refined coal.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+x11
+x12
+x13
+x14
+x15
+A snow storm has come.
+Ingish Gikendeler, Metalcrafter cancels Forge iron Chain: Needs refined coal.
+x2
+x3
+x4
+x5
+Construct wooden Cabinet (5) has been completed.
+The flying ({+®bronze bolt¯+}) strikes The Bull Moose in the right front leg, tearing the muscle!
+Ingish Gikendeler, Metalcrafter cancels Forge iron Chain: Needs refined coal.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+The flying ({+®bronze bolt¯+}) strikes The Bull Moose in the right front leg, chipping the bone!
+A tendon has been torn!
+The Bull Moose gives in to pain.
+The Bull Moose falls over.
+The Bull Moose regains consciousness.
+The Bull Moose is no longer stunned.
+The Bull Moose gives in to pain.
+The flying ({+®bronze bolt¯+}) strikes The Bull Moose in the upper body, tearing the muscle and tearing the heart!
+A major artery in the heart has been opened by the attack!
+The flying ({+®bronze bolt¯+}) strikes The Bull Moose in the left rear hoof, chipping it!
+Ingish Gikendeler, Metalcrafter cancels Forge iron Chain: Needs refined coal.
+Ingish Gikendeler, Metalcrafter cancels Forge iron Chain: Needs refined coal.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+Construct wooden Chest (5) has been completed.
+The weather has cleared.
+Ingish Gikendeler, Metalcrafter cancels Forge iron Chain: Needs 1 iron bars.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+Ingish Gikendeler, Metalcrafter cancels Forge iron Chain: Needs 1 iron bars.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+x11
+x12
+x13
+x14
+x15
+x16
+x17
+x18
+x19
+x20
+Ingish Gikendeler, Metalcrafter cancels Forge iron Chain: Needs 1 iron bars.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+Some migrants have arrived.
+Ingish Gikendeler, Metalcrafter cancels Forge iron Chain: Needs 1 iron bars.
+x2
+x3
+x4
+x5
+x6
+x7
+Ingish Gikendeler, Metalcrafter cancels Forge iron Chain: Needs 1 iron bars.
+x2
+x3
+Stukos Komanurvad has created a masterpiece!
+Id Idenzalud, manager cancels Clean: Dangerous terrain.
+Thob Tomˆmshorast, Mason cancels Clean: Dangerous terrain.
+Stukos Komanurvad, Stonecrafter cancels Make rock Toy: Needs non-economic hard rock.
+Stukos Komanurvad, Stonecrafter cancels Make rock Crafts: Needs non-economic hard rock.
+Stukos Komanurvad, Stonecrafter cancels Make rock Mug: Needs non-economic hard rock.
+Stukos Komanurvad, Stonecrafter cancels Make rock Instrument: Needs non-economic hard rock.
+Ingish Gikendeler, Metalcrafter cancels Forge iron Chain: Needs 1 iron bars.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+You have struck limonite!
+You have struck red zircon!
+You have struck orthoclase!
+Ingish Gikendeler, Metalcrafter cancels Forge iron Chain: Needs 1 iron bars.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+You have struck microcline!
+Ingish Gikendeler, Metalcrafter cancels Forge iron Chain: Needs 1 iron bars.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+It has started raining.
+The flying {+cedar bolt+} strikes The Eagle in the right lower leg, chipping the bone!
+A ligament has been torn and a tendon has been torn!
+The Eagle falls over.
+The Eagle gives in to pain.
+The Eagle slams into an obstacle!
+The Eagle's left foot takes the full force of the impact, shattering the bone!
+The Eagle's upper body takes the full force of the impact, bruising the muscle and bruising the liver!
+The Eagle's left upper leg takes the full force of the impact, bruising the bone!
+You have struck native gold!
+The flying {+cedar bolt+} strikes The Eagle in the right wing, chipping the bone!
+A tendon has been torn!
+The Eagle regains consciousness.
+The Eagle gives in to pain.
+The flying {+cedar bolt+} strikes The Eagle in the throat, tearing apart the skin!
+A major artery has been opened by the attack!
+You have struck tetrahedrite!
+The Stray Horse grabs The Stray Horse Foal by the lower body with her left rear leg!
+Litast Oddomvosut has become a Cook.
+The Stray Horse stands up.
+The Stray Horse attacks The Stray Horse Foal but He jumps away!
+The Stray Horse stands up.
+Ingish Gikendeler, Metalcrafter cancels Forge iron Chain: Needs 1 iron bars.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+There is nothing to catch in the central swamps.
+You have struck galena!
+You have struck topaz!
+The flying ({+®bronze bolt¯+}) strikes The Great Horned Owl in the right upper leg, fracturing the bone!
+A motor nerve has been severed and a tendon has been torn!
+The ({+®bronze bolt¯+}) has lodged firmly in the wound!
+The Great Horned Owl falls over.
+The Great Horned Owl gives in to pain.
+The flying ({+®bronze bolt¯+}) strikes The Great Horned Owl in the lower body, tearing the muscle and tearing apart the right kidney!
+The Great Horned Owl is propelled away by the force of the blow!
+The Great Horned Owl's upper body skids along the ground, bruising the muscle, jamming the left false ribs through the heart and tearing apart the heart!
+A major artery in the heart has been opened by the attack!
+The Great Horned Owl slams into an obstacle!
+Ingish Gikendeler, Metalcrafter cancels Forge iron Chain: Needs 1 iron bars.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+Ingish Gikendeler, Metalcrafter cancels Forge iron Chain: Needs 1 iron bars.
+x2
+The Stray Horse grabs The Stray Horse Foal by the tail with her right rear leg!
+The Stray Horse attacks The Stray Horse Foal but He jumps away!
+The Stray Horse Foal stands up.
+You have struck tetrahedrite!
+The flying {+cedar bolt+} strikes The Mountain Goat in the right rear leg, chipping the bone!
+A tendon has been torn!
+The Mountain Goat gives in to pain.
+The Mountain Goat falls over.
+The flying {+cedar bolt+} strikes The Mountain Goat in the head, tearing the muscle, jamming the skull through the brain and tearing the brain!
+A tendon in the skull has been torn!
+The {+cedar bolt+} has lodged firmly in the wound!
+The Stray Horse kicks The Stray Horse Foal in the upper body with her left front hoof, bruising the muscle and tearing apart the middle spine's nervous tissue!
+The Stray Horse Foal (Tame) has suffocated.
+The Stray Horse attacks The Stray Horse Foal but He jumps away!
+The Stray Horse stands up.
+The Stray Horse kicks The Stray Horse Foal in the right rear leg with her right rear hoof, bruising the muscle!
+The Stray Horse Foal stands up.
+The Stray Horse attacks The Lye Maker but She jumps away!
+The Stray Horse Foal stands up.
+The Lye Maker slams into an obstacle!
+it  The Lye Maker in the upper body, but the attack is deflected by The Lye Maker's (cave spider silk robe)!
+The Stray Horse stands up.
+The Lye Maker stands up.
+The Lye Maker is no longer stunned.
+Stukos Komanurvad has created a masterpiece!
+The weather has cleared.
+Id Idenzalud, manager cancels Cut bone opal: Needs rough bone opals.
+Stukos Komanurvad has created a masterpiece!
+Stukos Komanurvad has created a masterpiece!
+Stukos Komanurvad has created a masterpiece!
+Stukos Komanurvad has created a masterpiece!
+Stukos Komanurvad has created a masterpiece!
+Ingish Gikendeler has created a masterpiece!
+Stukos Komanurvad has created a masterpiece!
+x2
+Stukos Komanurvad has created a masterpiece!
+Forge iron Chain (10) has been completed.
+Stukos Komanurvad has created a masterpiece!
+Stukos Komanurvad has created a masterpiece!
+The Stray Horse misses The Stray Horse Foal!
+The Stray Horse misses The Stray Horse Foal!
+The Stray Horse Foal counterstrikes!
+The Stray Horse Foal kicks The Stray Horse in the left rear hoof with his right front hoof, but the attack glances away!
+Stukos Komanurvad has created a masterpiece!
+x2
+The Stray Horse attacks The Stray Horse Foal but He jumps away!
+The Stray Horse stands up.
+Stukos Komanurvad has created a masterpiece!
+Id Idenzalud, manager cancels Cut aventurine: Needs rough aventurines.
+Stukos Komanurvad has created a masterpiece!
+Stukos Komanurvad has created a masterpiece!
+x2
+Stukos Komanurvad has created a masterpiece!
+Id Idenzalud, manager cancels Cut chrysoprase: Needs rough chrysoprases.
+Id Idenzalud, manager cancels Cut green jade: Needs rough green jades.
+Stukos Komanurvad has created a masterpiece!
+Make Charcoal (30) has been completed.
+Stukos Komanurvad has created a masterpiece!
+Stukos Komanurvad has created a masterpiece!
+There is nothing to catch in the central swamps.
+Stukos Komanurvad has created a masterpiece!
+x2
+Stukos Komanurvad has created a masterpiece!
+Stukos Komanurvad has created a masterpiece!
+Snatcher!  Protect the children!
+Olon Žsoddom, Herbalist cancels Store Item in Stockpile: Interrupted by Goblin Thief.
+Moldath Bertangath, Fisherdwarf cancels Fish: Interrupted by Goblin Thief.
+Kadol Roderrig•th, Potter cancels Make bone bolts: Interrupted by Goblin Thief.
+Dod¢k Usengusil, Farmer cancels Store Item in Barrel: Interrupted by Goblin Thief.
+Olon Žsoddom, Herbalist cancels Gather Plants: Interrupted by Goblin Thief.
+Stƒkud Dorenoltar, Woodcutter cancels Fish: Interrupted by Goblin Thief.
+Unib Rinalmeng, Farmer cancels Store Item in Stockpile: Interrupted by Goblin Thief.
+Kad“l –thirudil, Miner cancels Construct Building: Interrupted by Goblin Thief.
+The dwarves suspended the construction of Fortification.
+Dod¢k Usengusil, Farmer cancels Drink: Interrupted by Goblin Thief.
+Olon Žsoddom, Herbalist cancels Gather Plants: Interrupted by Goblin Thief.
+A elven caravan from Afe Yipi has arrived.
+Construct wooden Bin (20) has been completed.
+Stukos Komanurvad has created a masterpiece!
+x2
+Stukos Komanurvad has created a masterpiece!
+Merchants have arrived and are unloading their goods.
+Stukos Komanurvad has created a masterpiece!
+Stukos Komanurvad has created a masterpiece!
+Melbil Umrilmelbil has grown to become a Dog.
+Stukos Komanurvad has created a masterpiece!
+Stukos Komanurvad has created a masterpiece!
+Snatcher!  Protect the children!
+Kadol Roderrig•th, Potter cancels Make bone bolts: Interrupted by Goblin Thief.
+Fikod Asobolin has become a Recruit.
+Litast Oddomvosut has become a Recruit.
+Kadol Soloniseth has become a militia commander.
+Olon Žsoddom, Herbalist cancels Store Item in Barrel: Interrupted by Goblin Thief.
+Solon Besmarnog, Fish Cleaner cancels Store Item in Stockpile: Interrupted by Goblin Thief.
+Stƒkud Dorenoltar, Woodcutter cancels Store Item in Stockpile: Interrupted by Goblin Thief.
+Dod¢k Usengusil, Farmer cancels Store Item in Barrel: Interrupted by Goblin Thief.
+The Goblin Thief bats The flying {-mountain goat bone bolt-} out of the air!
+Stukos Komanurvad has created a masterpiece!
+x2
+Stukos Komanurvad has created a masterpiece!
+Fikod Asobolin has become a Leatherworker.
+Litast Oddomvosut has become a Cook.
+Kadol Soloniseth has become a militia commander.
+Ral –thirm”rul, Armorer cancels Smelt limonite Ore: Needs limonite.
+Kadol Roderrig•th has become a Craftsdwarf.
+Kadol Soloniseth, militia commander cancels Pickup Equipment: Equipment mismatch.
+Stukos Komanurvad has created a masterpiece!
+x2
+Kadol Soloniseth, militia commander cancels Pickup Equipment: Equipment mismatch.
+Stukos Komanurvad has created a masterpiece!
+Stukos Komanurvad has created a masterpiece!
+Stukos Komanurvad has created a masterpiece!
+Kadol Soloniseth, militia commander cancels Pickup Equipment: Equipment mismatch.
+Stukos Komanurvad has created a masterpiece!
+x2
+Stukos Komanurvad has created a masterpiece!
+It is now summer.
+Stukos Komanurvad has created a masterpiece!
+Stukos Komanurvad has created a masterpiece!
+Stukos Komanurvad has created a masterpiece!
+Digging designation cancelled: damp stone located.
+x2
+Digging designation cancelled: damp stone located.
+Digging designation cancelled: damp stone located.
+Digging designation cancelled: damp stone located.
+Digging designation cancelled: damp stone located.
+Stukos Komanurvad has created a masterpiece!
+There is nothing to catch in the central swamps.
+Digging designation cancelled: damp stone located.
+x2
+Digging designation cancelled: damp stone located.
+Digging designation cancelled: damp stone located.
+x2
+x3
+Digging designation cancelled: damp stone located.
+x2
+Stukos Komanurvad has created a masterpiece!
+x2
+Digging designation cancelled: damp stone located.
+x2
+Stukos Komanurvad has created a masterpiece!
+x2
+Stukos Komanurvad has created a masterpiece!
+Ast Nishoddom, Glassmaker has been missing for a week.
+Kad“l –thirudil has created a masterpiece!
+Stukos Komanurvad has created a masterpiece!
+x2
+Prepare Lavish Meal (30) has been completed.
+Oddom Odomoddom, Carpenter cancels Store Item in Stockpile: Job item misplaced.
+Stukos Komanurvad has created a masterpiece!
+Datan Rithzƒmlikot, Peasant cancels Construct Building: Cannot reach site.
+The dwarves suspended the construction of Wall.
+Fikod Asobolin, Leatherworker cancels Pickup Equipment: Equipment mismatch.
+Construct rock Throne (20) has been completed.
+You have struck sard!
+Stukos Komanurvad has created a masterpiece!
+x2
+x3
+Stukos Komanurvad has created a masterpiece!
+You have struck bituminous coal!
+Stukos Komanurvad has created a masterpiece!
+Stukos Komanurvad has created a masterpiece!
+Stukos Komanurvad has created a masterpiece!
+Stukos Komanurvad has created a masterpiece!
+The merchants from Afe Yipi will be leaving soon.
+Stukos Komanurvad has created a masterpiece!
+Construct rock Table (10) has been completed.
+Stukos Komanurvad has created a masterpiece!
+Stukos Komanurvad has created a masterpiece!
+x2
+Stukos Komanurvad has created a masterpiece!
+The merchants from Afe Yipi have embarked on their journey.
+Stukos Komanurvad has created a masterpiece!
+Solon Besmarnog, Fish Cleaner cancels Store Item in Stockpile: Taken by mood.
+Solon Besmarnog, Fish Cleaner is taken by a fey mood!
+Stukos Komanurvad, Stonecrafter cancels Make rock Toy: Needs non-economic hard rock.
+Stukos Komanurvad, Stonecrafter cancels Make rock Crafts: Needs non-economic hard rock.
+Stukos Komanurvad, Stonecrafter cancels Make rock Mug: Needs non-economic hard rock.
+Stukos Komanurvad, Stonecrafter cancels Make rock Instrument: Needs non-economic hard rock.
+Solon Besmarnog has claimed a Craftsdwarf's Workshop.
+The flying {+cedar bolt+} strikes The Buck Hare in the left front leg, chipping the bone!
+A tendon has been torn!
+The Buck Hare gives in to pain.
+The Buck Hare falls over.
+Thob Tomˆmshorast, Mason cancels Construct rock Coffin: Needs non-economic hard rock.
+x2
+x3
+x4
+The flying {+cedar bolt+} strikes The Buck Hare in the right front leg, chipping the bone!
+A tendon has been torn!
+Thob Tomˆmshorast, Mason cancels Construct rock Coffin: Needs non-economic hard rock.
+Thob Tomˆmshorast, Mason cancels Construct rock Coffin: Needs non-economic hard rock.
+The Buck Hare regains consciousness.
+The flying {+cedar bolt+} strikes The Buck Hare in the lower body, tearing the muscle and tearing apart the pancreas!
+The Buck Hare is no longer stunned.
+The Buck Hare gives in to pain.
+The flying {+cedar bolt+} strikes The Buck Hare in the left rear leg, chipping the bone!
+A tendon has been torn!
+The flying {+cedar bolt+} strikes The Buck Hare in the lower body, tearing the muscle and tearing the guts!
+The Buck Hare looks sick!
+The Buck Hare vomits.
+The Buck Hare retches.
+The Buck Hare vomits.
+The Buck Hare retches.
+The Buck Hare vomits.
+The flying {+cedar bolt+} strikes The Buck Hare in the right rear leg, chipping the bone!
+A tendon has been torn!
+The Buck Hare vomits.
+The Buck Hare regains consciousness.
+The Buck Hare retches.
+The Buck Hare gives in to pain.
+The Buck Hare vomits.
+The Buck Hare retches.
+The Buck Hare vomits.
+The Buck Hare retches.
+Solon Besmarnog has begun a mysterious construction!
+The Buck Hare vomits.
+The Buck Hare regains consciousness.
+The Buck Hare retches.
+The Peasant's left upper leg takes the full force of the impact, bruising the muscle through the (pig tail fiber cloak)!
+The Peasant's left hand takes the full force of the impact, bruising the bone through the (pig tail fiber left mitten)!
+The Buck Hare retches.
+The Buck Hare vomits.
+The Buck Hare retches.
+The Peasant stands up.
+The Buck Hare is no longer stunned.
+The Peasant is no longer stunned.
+The flying {+cedar bolt+} strikes The Buck Hare in the lower body, tearing the muscle and tearing the stomach!
+The Buck Hare vomits.
+The Buck Hare gives in to pain.
+The Buck Hare retches.
+The Buck Hare vomits.
+The Buck Hare retches.
+The Buck Hare vomits.
+The Buck Hare retches.
+The Peasant stands up.
+The Buck Hare vomits.
+The Buck Hare vomits.
+The Buck Hare retches.
+The flying {+cedar bolt+} strikes The Buck Hare in the right front leg, fracturing the bone!
+A tendon has been torn!
+The Buck Hare vomits.
+The Buck Hare retches.
+The Buck Hare vomits.
+The Buck Hare regains consciousness.
+The Buck Hare retches.
+The Buck Hare gives in to pain.
+The Buck Hare retches.
+The flying {+cedar bolt+} strikes The Buck Hare in the left rear leg, fracturing the bone!
+A tendon has been torn!
+You have struck chrysoprase!
+Urdim Mus”d•nul, Miner cancels Link a Building to Trigger: Cannot reach site.
+The dwarves suspended a linkage from microcline Lever.
+Construct rock Coffin (10) has been completed.
+Construct wooden Blocks (10) has been completed.
+Solon Besmarnog, Fish Cleaner has created Sefolzokun D‰ngstamtomˆm, a larch cup!
+Solon Besmarnog has become a Woodcrafter.
+The flying ({+®bronze bolt¯+}) strikes The Doe Hare in the left front leg, chipping the bone!
+A sensory nerve has been severed and a tendon has been torn!
+An animal has grown to become a Stray Llama.
+The flying ({+®bronze bolt¯+}) strikes The Doe Hare in the left front leg, fracturing the bone!
+A tendon has been torn!
+The flying ({+®bronze bolt¯+}) strikes The Doe Hare in the left rear leg, chipping the bone!
+A tendon has been torn!
+The Doe Hare falls over.
+The flying ({+®bronze bolt¯+}) strikes The Doe Hare in the left front leg, fracturing the bone!
+A tendon has been torn!
+The Doe Hare gives in to pain.
+The flying {*larch bolt*} strikes The Doe Hare in the right rear leg, chipping the bone!
+A sensory nerve has been severed and a tendon has been torn!
+The Doe Hare regains consciousness.
+The Doe Hare is no longer stunned.
+The Doe Hare gives in to pain.
+The flying {*larch bolt*} strikes The Doe Hare in the lower body, tearing the muscle and tearing the lower spine's nervous tissue!
+A tendon in the lower spine has been torn!
+The flying {*larch bolt*} strikes The Doe Hare in the lower body, tearing the muscle and tearing apart the right kidney!
+The {*larch bolt*} has lodged firmly in the wound!
+The Doe Hare regains consciousness.
+The Doe Hare is no longer stunned.
+Make Charcoal (30) has been completed.
+Litast Oddomvosut, Cook has grown attached to a copper crossbow!
+Make wooden Bucket (10) has been completed.
+Dod¢k Usengusil, Farmer cancels Plant Seeds: Needs pig tail seeds.
+There is nothing to catch in the central swamps.
+The flying {+cedar bolt+} strikes The Doe Hare in the right rear leg, chipping the bone!
+A tendon has been torn!
+The flying {+cedar bolt+} strikes The Doe Hare in the right front leg, chipping the bone!
+A tendon has been torn!
+The flying {+cedar bolt+} strikes The Doe Hare in the left rear leg, chipping the bone!
+A tendon has been torn!
+The flying {+cedar bolt+} strikes The Doe Hare in the upper body, tearing the muscle and tearing the middle spine's nervous tissue!
+A tendon in the middle spine has been torn!
+The flying {+cedar bolt+} strikes The Badger Boar in the upper body, tearing the muscle, fracturing the right true ribs and tearing the heart!
+A major artery in the heart has been opened by the attack!
+A tendon in the right true ribs has been torn!
+The Badger Boar gives in to pain.
+The Badger Boar falls over.
+Dod¢k Usengusil, Farmer cancels Plant Seeds: Needs cave wheat seeds.
+The flying {+cedar bolt+} strikes The Badger Sow in the right front leg, chipping the bone!
+A tendon has been torn!
+The Badger Sow has become enraged!
+The flying {+cedar bolt+} strikes The Badger Boar in the right front leg, tearing the muscle!
+The Badger Sow gives in to pain.
+The Badger Sow falls over.
+The flying {+cedar bolt+} strikes The Badger Boar in the right front leg, chipping the bone!
+A tendon has been torn!
+The Badger Boar gives in to pain.
+The Badger Boar falls over.
+The flying {+cedar bolt+} strikes The Badger Sow in the lower body, tearing the muscle and tearing the guts!
+The Badger Sow looks sick!
+The Badger Sow vomits.
+The Badger Sow retches.
+The flying {+cedar bolt+} strikes The Badger Sow in the left rear leg, chipping the bone!
+An artery has been opened by the attack and a tendon has been torn!
+The Badger Sow vomits.
+The flying {+cedar bolt+} strikes The Badger Sow in the left front leg, chipping the bone!
+A tendon has been torn!
+The Badger Sow retches.
+The Badger Sow misses The Hunter!
+The Badger Sow regains consciousness.
+The Badger Sow attacks The Hunter but She jumps away!
+The Badger Sow gives in to pain.
+The Badger Sow attacks The Hunter but She jumps away!
+The flying {+cedar bolt+} strikes The Badger Sow in the right front leg, chipping the bone!
+A tendon has been torn!
+The Badger Sow misses The Hunter!
+The Badger Boar regains consciousness.
+The Badger Boar gives in to pain.
+The Badger Sow misses The Hunter!
+The flying {+cedar bolt+} strikes The Badger Sow in the lower body, tearing the muscle and tearing the guts!
+The Badger Sow looks sick!
+The {+cedar bolt+} has lodged firmly in the wound!
+Badger Sow is no longer enraged.
+The Badger Sow gives in to pain.
+The Badger Sow falls over.
+The Badger Sow vomits.
+The Badger Sow retches.
+The flying {+cedar bolt+} strikes The Badger Sow in the right front leg, chipping the bone!
+A sensory nerve has been severed and a tendon has been torn!
+Logem Uristzim, Hunter cancels Hunt: No ammunition.
+The Badger Sow vomits.
+The Badger Sow regains consciousness.
+The Badger Sow vomits.
+The Badger Sow retches.
+The flying {*larch bolt*} strikes The Badger Sow in the left rear leg, chipping the bone!
+A tendon has been torn!
+The Badger Sow vomits.
+The Badger Sow is no longer stunned.
+The Badger Sow gives in to pain.
+The Badger Sow vomits.
+The Badger Sow retches.
+The Badger Sow retches.
+The Badger Sow retches.
+The Badger Sow vomits.
+The flying {*larch bolt*} strikes The Badger Sow in the upper body, tearing the muscle and tearing the liver!
+The {*larch bolt*} has lodged firmly in the wound!
+The Badger Sow retches.
+The Badger Sow regains consciousness.
+The Badger Sow vomits.
+The Badger Sow retches.
+The Badger Sow stands up.
+The Badger Sow vomits.
+The Badger Sow is no longer stunned.
+The Badger Sow retches.
+The Badger Boar regains consciousness.
+The Badger Boar gives in to pain.
+The Badger Sow vomits.
+The flying {*larch bolt*} strikes The Badger Sow in the left rear leg, fracturing the bone!
+A tendon has been torn!
+The Badger Sow vomits.
+The Badger Sow retches.
+The Badger Sow vomits.
+The Badger Sow retches.
+The Badger Sow vomits.
+The Badger Sow retches.
+The Badger Sow vomits.
+The Badger Sow vomits.
+The Badger Sow regains consciousness.
+The Badger Sow retches.
+The Badger Sow vomits.
+The Badger Sow retches.
+The Badger Sow vomits.
+The Badger Sow retches.
+The Badger Boar regains consciousness.
+The Badger Sow retches.
+The Badger Sow is no longer stunned.
+The Badger Boar gives in to pain.
+The Badger Sow retches.
+The Badger Sow vomits.
+The Badger Sow retches.
+The Badger Sow vomits.
+The Badger Boar has become enraged!
+The flying {*larch bolt*} strikes The Badger Sow in the left front leg, chipping the bone!
+A tendon has been torn!
+The Badger Sow vomits.
+The Badger Sow retches.
+Nish Shovethrig•th, Hunter cancels Hunt: No ammunition.
+The Badger Sow retches.
+The Badger Sow vomits.
+The Badger Sow retches.
+The Badger Sow vomits.
+The Badger Sow retches.
+The Badger Sow vomits.
+The Badger Sow retches.
+The Badger Sow vomits.
+The Badger Sow gives in to pain.
+The Badger Sow vomits.
+The Badger Boar regains consciousness.
+The Badger Sow retches.
+The Badger Sow vomits.
+The Badger Sow retches.
+The Badger Sow vomits.
+The Badger Boar stands up.
+The Badger Sow retches.
+The Badger Boar is no longer stunned.
+The Badger Sow vomits.
+The Badger Sow retches.
+Badger Boar is no longer enraged.
+The Badger Sow vomits.
+The Badger Sow retches.
+The Badger Sow vomits.
+The Badger Sow retches.
+The Badger Sow vomits.
+The Badger Sow retches.
+The Badger Sow vomits.
+The Badger Sow retches.
+The Badger Sow vomits.
+The Badger Sow retches.
+The Badger Sow vomits.
+The Badger Sow regains consciousness.
+The Badger Sow retches.
+The Badger Sow gives in to pain.
+The Badger Sow retches.
+The Badger Sow vomits.
+The Badger Sow retches.
+The Badger Sow vomits.
+The Badger Sow retches.
+The Badger Sow vomits.
+The Badger Sow retches.
+The Badger Sow vomits.
+The Badger Sow retches.
+The Badger Sow vomits.
+The Badger Sow retches.
+The Badger Sow vomits.
+The Badger Sow retches.
+The Badger Sow vomits.
+The Badger Sow retches.
+The Badger Sow vomits.
+The Badger Sow retches.
+The Badger Sow vomits.
+The Badger Sow retches.
+The Badger Sow vomits.
+The Badger Sow retches.
+The Badger Sow retches.
+The Badger Sow vomits.
+The Badger Sow retches.
+The Badger Sow vomits.
+The Badger Sow retches.
+The Badger Sow vomits.
+The Badger Sow retches.
+The Badger Sow regains consciousness.
+The Badger Sow retches.
+The Badger Sow vomits.
+The Badger Sow retches.
+The Badger Sow is no longer stunned.
+The Badger Sow vomits.
+The Badger Sow retches.
+The Badger Sow vomits.
+The Badger Sow retches.
+The Badger Sow vomits.
+The Badger Sow retches.
+The Badger Sow gives in to pain.
+The Badger Sow retches.
+The Badger Sow vomits.
+The Badger Sow retches.
+The Badger Sow vomits.
+The flying {*cedar bolt*} strikes The Badger Sow in the right rear leg, chipping the bone!
+A tendon has been torn!
+The Badger Sow falls over.
+The flying {*cedar bolt*} strikes The Badger Sow in the upper body, tearing the muscle and tearing the heart!
+A major artery in the heart has been opened by the attack!
+The flying {*cedar bolt*} strikes The Badger Sow in the right front leg, chipping the bone!
+A tendon has been torn!
+The flying {pine bolt} strikes The Badger Sow in the upper body, tearing the muscle and tearing the right lung!
+The Badger Sow is having trouble breathing!
+The Badger Sow regains consciousness.
+The Badger Sow gives in to pain.
+Id Idenzalud, manager cancels Store Item in Stockpile: Drop-off inaccessible.
+The flying {pine bolt} strikes The Badger Sow in the left rear leg, chipping the bone!
+A tendon has been torn!
+The flying {pine bolt} strikes The Badger Sow in the right front leg, chipping the bone!
+A tendon has been torn!
+The flying {pine bolt} strikes The Badger Sow in the left front leg, chipping the bone!
+A tendon has been torn!
+The Badger Sow regains consciousness.
+The Badger Sow is no longer stunned.
+The Badger Sow gives in to pain.
+The flying {pine bolt} strikes The Badger Sow in the right rear leg, chipping the bone!
+A tendon has been torn!
+The Badger Sow regains consciousness.
+The Badger Sow gives in to pain.
+The flying {pine bolt} strikes The Badger Sow in the right front leg, chipping the bone!
+A tendon has been torn!
+The flying {pine bolt} strikes The Badger Sow in the left front leg, chipping the bone!
+A tendon has been torn!
+The flying {pine bolt} strikes The Badger Sow in the right front leg, fracturing the bone!
+A tendon has been torn!
+The Badger Sow regains consciousness.
+The Badger Sow gives in to pain.
+The Badger Sow regains consciousness.
+The flying {pine bolt} strikes The Badger Sow in the right rear leg, fracturing the bone!
+A tendon has been torn!
+The Badger Sow gives in to pain.
+The flying {pine bolt} strikes The Badger Sow in the right front leg, fracturing the bone!
+A tendon has been torn!
+The flying {pine bolt} strikes The Badger Sow in the lower body, tearing the muscle and tearing the stomach!
+The flying {pine bolt} strikes The Badger Sow in the left front leg, fracturing the bone!
+A tendon has been torn!
+The flying {pine bolt} strikes The Badger Sow in the left front leg, fracturing the bone!
+A tendon has been torn!
+The flying {pine bolt} strikes The Badger Sow in the lower body, tearing the muscle and tearing the stomach!
+Ast Nishoddom, Glassmaker has been found dead, drowned.
+Oddom Odomoddom, Carpenter cancels Store Item in Stockpile: Item inaccessible.
+The Badger Sow regains consciousness.
+The flying {pine bolt} strikes The Badger Sow in the left rear leg, chipping the bone!
+A tendon has been torn!
+Logem Solonostar, Woodworker cancels Store Item in Stockpile: Item inaccessible.
+The flying {pine bolt} strikes The Badger Sow in the lower body, tearing the muscle and tearing the guts!
+The Badger Sow looks sick!
+The Badger Sow vomits.
+The Badger Sow is no longer stunned.
+The Badger Sow retches.
+The Badger Sow gives in to pain.
+The flying {pine bolt} strikes The Badger Sow in the right rear leg, fracturing the bone!
+A tendon has been torn!
+The Badger Sow vomits.
+The Badger Sow retches.
+Bomrek Bomrekngot–n, chief medical dwarf cancels Store Item in Stockpile: Could not find path.
+The Badger Sow retches.
+The flying {pine bolt} strikes The Badger Sow in the right front leg, shattering the bone!
+A tendon has been torn!
+The Badger Sow retches.
+The flying {*cedar bolt*} strikes The Badger Sow in the right front leg, fracturing the bone!
+A tendon has been torn!
+The flying {pine bolt} strikes The Badger Sow in the left rear leg, chipping the bone!
+A sensory nerve has been severed and a tendon has been torn!
+The Badger Sow vomits.
+Nish Shovethrig•th, Hunter cancels Hunt: No ammunition.
+The Badger Sow vomits.
+The Badger Sow retches.
+The flying {*cedar bolt*} strikes The Badger Sow in the right front leg, shattering the bone!
+A tendon has been torn!
+The Badger Sow retches.
+The Badger Sow regains consciousness.
+The Badger Sow vomits.
+The Badger Sow retches.
+Urdim Otiltulon, Gem Setter cancels Store Item in Stockpile: Item inaccessible.
+Bomrek Bomrekngot–n, chief medical dwarf cancels Store Item in Stockpile: Item inaccessible.
+The Badger Sow vomits.
+The Badger Sow is no longer stunned.
+The Badger Sow retches.
+The Badger Sow vomits.
+The Badger Sow gives in to pain.
+The Badger Sow vomits.
+The Badger Sow retches.
+The Badger Sow vomits.
+The Badger Sow retches.
+The Badger Sow retches.
+The Badger Sow regains consciousness.
+The Badger Sow vomits.
+The Badger Sow retches.
+The Badger Sow vomits.
+The Badger Sow gives in to pain.
+The Badger Sow retches.
+The Badger Sow vomits.
+The Badger Sow retches.
+The Badger Sow vomits.
+The Badger Sow retches.
+The Badger Sow vomits.
+The Badger Sow retches.
+Bomrek Bomrekngot–n, chief medical dwarf cancels Store Item in Stockpile: Item inaccessible.
+The Badger Sow vomits.
+The Badger Sow vomits.
+The flying {*cedar bolt*} strikes The Badger Sow in the left front leg, shattering the bone!
+A tendon has been torn!
+The Badger Sow vomits.
+The Badger Sow retches.
+The Badger Sow regains consciousness.
+The Badger Sow is no longer stunned.
+The Badger Sow vomits.
+The Badger Sow vomits.
+The Badger Sow retches.
+The Badger Sow vomits.
+The Badger Sow retches.
+The Badger Sow gives in to pain.
+The Badger Sow vomits.
+The Badger Sow retches.
+The flying {*cedar bolt*} strikes The Badger Sow in the left rear leg, fracturing the bone!
+An artery has been opened by the attack and a tendon has been torn!
+The Badger Sow retches.
+The Badger Sow vomits.
+The Badger Sow retches.
+The Badger Sow retches.
+The Badger Sow retches.
+The Badger Sow vomits.
+The Badger Sow retches.
+The Badger Sow vomits.
+The Badger Sow retches.
+The flying {*cedar bolt*} strikes The Badger Sow in the right front leg, shattering the bone!
+Many nerves have been severed and a tendon has been torn!
+The Badger Sow vomits.
+The Badger Sow retches.
+The Badger Sow retches.
+The Badger Sow vomits.
+The flying {*cedar bolt*} strikes The Badger Sow in the lower body, tearing the muscle and tearing the pancreas!
+The {*cedar bolt*} has lodged firmly in the wound!
+The Badger Sow retches.
+Some migrants have arrived.
+The Badger Sow vomits.
+The Badger Sow retches.
+Logem Solonostar, Woodworker cancels Store Item in Stockpile: Drop-off inaccessible.
+Stukos Komanurvad, Stonecrafter cancels Store Item in Stockpile: Drop-off inaccessible.
+Mebzuth Fathvunom, Lye Maker cancels Store Item in Stockpile: Drop-off inaccessible.
+K–buk Kulindomas, Farmer cancels Store Item in Stockpile: Item inaccessible.
+The Badger Sow regains consciousness.
+The flying {*cedar bolt*} strikes The Badger Sow in the left front leg, shattering the bone!
+A sensory nerve has been severed and a tendon has been torn!
+The Badger Sow vomits.
+The Badger Sow retches.
+The Badger Sow gives in to pain.
+The Badger Sow retches.
+The Badger Sow vomits.
+The Badger Sow retches.
+The Badger Sow vomits.
+The flying {*cedar bolt*} strikes The Badger Sow in the throat, tearing the skin!
+A major artery has been opened by the attack!
+The Badger Sow retches.
+The Badger Sow vomits.
+The flying ({steel bolt}) strikes The Badger Boar in the right rear leg, chipping the bone!
+A tendon has been torn!
+The Badger Boar gives in to pain.
+The Badger Boar falls over.
+The flying ({steel bolt}) strikes The Badger Boar in the head, tearing the muscle and tearing the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The Badger Boar is propelled away by the force of the blow!
+The Badger Boar's second left front toe skids along the ground, shattering the nail!
+The Badger Boar slams into an obstacle!
+The Badger Boar regains consciousness.
+The Badger Boar is no longer stunned.
+The Badger Boar stands up.
+The Badger Boar is no longer stunned.
+Etur Shaligetur, Siege Engineer cancels Smelt hematite Ore: Needs refined coal.
+The flying ({steel bolt}) strikes The Badger Boar in the upper body, tearing the muscle and fracturing the right true ribs!
+A tendon in the right true ribs has been torn!
+The Badger Boar is propelled away by the force of the blow!
+The Badger Boar gives in to pain.
+The Badger Boar falls over.
+The Badger Boar's upper body skids along the ground, bruising the muscle and shattering the left true ribs!
+The Badger Boar slams into an obstacle!
+The Badger Boar is no longer stunned.
+The flying ({steel bolt}) strikes The Badger Boar in the upper body, tearing the muscle and fracturing the left true ribs!
+A tendon in the left true ribs has been torn!
+The Badger Boar is propelled away by the force of the blow!
+The Badger Boar's left rear leg skids along the ground, bruising the muscle!
+The Badger Boar slams into an obstacle!
+The Badger Boar regains consciousness.
+The flying ({steel bolt}) strikes The Badger Boar in the left rear leg, chipping the bone!
+A tendon has been torn!
+The Badger Boar is no longer stunned.
+The Badger Boar gives in to pain.
+The Badger Boar regains consciousness.
+The Badger Boar gives in to pain.
+The Badger Boar regains consciousness.
+The Badger Boar gives in to pain.
+The flying {*cedar bolt*} strikes The Badger Boar in the right rear leg, chipping the bone!
+A tendon has been torn!
+The flying {*cedar bolt*} strikes The Badger Boar in the left front leg, chipping the bone!
+A tendon has been torn!
+The flying {*cedar bolt*} strikes The Badger Boar in the upper body, tearing the muscle and tearing the left lung!
+The Badger Boar is having trouble breathing!
+The Badger Boar regains consciousness.
+The Badger Boar gives in to pain.
+The Badger Boar regains consciousness.
+The flying {*cedar bolt*} strikes The Badger Boar in the upper body, tearing the muscle, shattering the left floating ribs and tearing the liver!
+An artery has been opened by the attack!
+A tendon in the left floating ribs has been torn!
+The Badger Boar gives in to pain.
+Ast Melbilikud has grown to become a Dog.
+The Badger Boar regains consciousness.
+The Badger Boar is no longer stunned.
+The Badger Boar gives in to pain.
+The flying {*cedar bolt*} strikes The Badger Boar in the lower body, tearing the muscle and tearing the left kidney!
+Logem Uristzim, Hunter cancels Hunt: No ammunition.
+The Badger Boar regains consciousness.
+The Badger Boar is no longer stunned.
+The flying ({steel bolt}) strikes The Badger Boar in the right rear leg, chipping the bone!
+A tendon has been torn!
+The Badger Boar has become enraged!
+The Badger Boar gives in to pain.
+The Badger Boar regains consciousness.
+The Badger Boar is no longer stunned.
+The Badger Boar gives in to pain.
+Badger Boar is no longer enraged.
+The Badger Boar regains consciousness.
+The Badger Boar is no longer stunned.
+The Badger Boar gives in to pain.
+The flying ({steel bolt}) strikes The Badger Boar in the right front leg, chipping the bone!
+A tendon has been torn!
+The flying ({steel bolt}) strikes The Badger Boar in the lower body, tearing the muscle and tearing the guts!
+The Badger Boar looks sick!
+The Badger Boar is propelled away by the force of the blow!
+The Badger Boar vomits.
+The Badger Boar's left front leg skids along the ground, bruising the muscle!
+The Badger Boar slams into an obstacle!
+The Badger Boar vomits.
+The Badger Boar retches.
+The Badger Boar vomits.
+The Badger Boar retches.
+The Badger Boar regains consciousness.
+The flying ({steel bolt}) strikes The Badger Boar in the upper body, tearing the muscle and tearing the liver!
+The Badger Boar is propelled away by the force of the blow!
+The Badger Boar's head skids along the ground, bruising the muscle, jamming the skull through the brain and tearing the brain!
+The Badger Boar has been knocked unconscious!
+The Badger Boar slams into an obstacle!
+The flying ({steel bolt}) strikes The Yak Bull in the left front leg, chipping the bone!
+A tendon has been torn!
+The Yak Bull gives in to pain.
+The Yak Bull falls over.
+The Yak Bull regains consciousness.
+The Yak Bull stands up.
+The Yak Bull is no longer stunned.
+The Yak Bull gives in to pain.
+The Yak Bull falls over.
+The flying ({steel bolt}) strikes The Yak Bull in the right rear leg, chipping the bone!
+A tendon has been torn!
+The flying ({steel bolt}) strikes The Yak Bull in the right front leg, chipping the bone!
+A tendon has been torn!
+The Yak Bull regains consciousness.
+The Yak Bull gives in to pain.
+The flying ({steel bolt}) strikes The Yak Bull in the lower body, tearing the muscle and tearing the guts!
+The Yak Bull looks sick!
+The Yak Bull vomits.
+The Yak Bull retches.
+The flying ({steel bolt}) strikes The Yak Bull in the left front leg, chipping the bone!
+A tendon has been torn!
+The Yak Bull vomits.
+The Yak Bull retches.
+The flying ({steel bolt}) strikes The Yak Bull in the right front leg, chipping the bone!
+A tendon has been torn!
+The Yak Bull vomits.
+The Yak Bull retches.
+The Yak Bull retches.
+The Yak Bull vomits.
+The Yak Bull retches.
+The Yak Bull vomits.
+The flying ({steel bolt}) strikes The Yak Bull in the right front leg, chipping the bone!
+A tendon has been torn!
+The Yak Bull retches.
+The Yak Bull vomits.
+The Yak Bull retches.
+The flying ({steel bolt}) strikes The Yak Bull in the right front leg, chipping the bone!
+A tendon has been torn!
+The Yak Bull retches.
+The Yak Bull vomits.
+Mistˆm R£baliden has grown to become a Dog.
+The Yak Bull vomits.
+The flying ({steel bolt}) strikes The Yak Bull in the left horn, chipping the bone!
+A tendon has been torn!
+The Yak Bull regains consciousness.
+The Yak Bull gives in to pain.
+The Yak Bull retches.
+The Yak Bull vomits.
+The Yak Bull retches.
+The Yak Bull vomits.
+The flying ({steel bolt}) strikes The Yak Bull in the right horn, chipping the bone!
+A tendon has been torn!
+The Yak Bull vomits.
+The flying ({steel bolt}) strikes The Yak Bull in the right rear leg, chipping the bone!
+A tendon has been torn!
+The Yak Bull vomits.
+The Yak Bull retches.
+The flying ({steel bolt}) strikes The Yak Bull in the upper body, tearing the muscle and tearing the left lung!
+The Yak Bull is having trouble breathing!
+The Yak Bull vomits.
+The flying ({steel bolt}) strikes The Yak Bull in the right front leg, chipping the bone!
+A tendon has been torn!
+The Yak Bull retches.
+The Yak Bull regains consciousness.
+The Yak Bull vomits.
+The Yak Bull is no longer stunned.
+The Yak Bull vomits.
+The Yak Bull gives in to pain.
+The Yak Bull vomits.
+The Yak Bull retches.
+The flying ({steel bolt}) strikes The Yak Bull in the left front leg, chipping the bone!
+A tendon has been torn!
+The Yak Bull vomits.
+The Yak Bull retches.
+The Yak Bull vomits.
+The Yak Bull vomits.
+The Yak Bull retches.
+The Yak Bull vomits.
+The Yak Bull retches.
+Ilral •nullisid, Hunter cancels Hunt: No ammunition.
+The Yak Bull vomits.
+The Yak Bull retches.
+The Yak Bull vomits.
+The Yak Bull retches.
+The Yak Bull regains consciousness.
+The Yak Bull retches.
+The Yak Bull retches.
+The Yak Bull vomits.
+The Yak Bull vomits.
+The Yak Bull is no longer stunned.
+The Yak Bull retches.
+The Yak Bull vomits.
+The Yak Bull retches.
+The Yak Bull vomits.
+The Yak Bull gives in to pain.
+The Yak Bull vomits.
+The Yak Bull retches.
+The Yak Bull vomits.
+The Yak Bull retches.
+The Yak Bull vomits.
+The Yak Bull retches.
+The Yak Bull vomits.
+The Yak Bull retches.
+The Yak Bull vomits.
+The Yak Bull retches.
+The Yak Bull vomits.
+The Yak Bull retches.
+The Yak Bull vomits.
+The Yak Bull retches.
+The Yak Bull vomits.
+The Yak Bull retches.
+The Yak Bull regains consciousness.
+The Yak Bull gives in to pain.
+The Yak Bull regains consciousness.
+The Yak Bull is no longer stunned.
+A kidnapper has made off with the Dwarven child Mebzuth KuletnosŒm!
+A human caravan from Omon Onuth has arrived.
+Kadol Roderrig•th has become a Bone Carver.
+Ral –thirm”rul, Armorer cancels Forge iron breastplate: Needs refined coal.
+Ral –thirm”rul, Armorer cancels Forge iron breastplate: Needs refined coal.
+x2
+x3
+x4
+Ral –thirm”rul, Armorer cancels Forge iron breastplate: Needs refined coal.
+x2
+x3
+Ral –thirm”rul, Armorer cancels Forge iron breastplate: Needs refined coal.
+Ral –thirm”rul, Armorer cancels Forge iron breastplate: Needs refined coal.
+Ral –thirm”rul, Armorer cancels Forge iron breastplate: Needs refined coal.
+Ral –thirm”rul, Armorer cancels Forge iron breastplate: Needs refined coal.
+x2
+Merchants have arrived and are unloading their goods.
+Ral –thirm”rul, Armorer cancels Forge iron breastplate: Needs refined coal.
+Ral –thirm”rul, Armorer cancels Forge iron breastplate: Needs refined coal.
+x2
+x3
+x4
+x5
+Ral –thirm”rul, Armorer cancels Forge iron breastplate: Needs refined coal.
+Ral –thirm”rul, Armorer cancels Forge iron breastplate: Needs refined coal.
+x2
+x3
+Ral –thirm”rul, Armorer cancels Forge iron breastplate: Needs refined coal.
+Ral –thirm”rul, Armorer cancels Forge iron breastplate: Needs refined coal.
+x2
+x3
+Ral –thirm”rul, Armorer cancels Forge iron breastplate: Needs refined coal.
+x2
+x3
+Datan Rithzƒmlikot has become a Engraver.
+Ral –thirm”rul, Armorer cancels Forge iron breastplate: Needs refined coal.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+Ral –thirm”rul, Armorer cancels Forge iron breastplate: Needs refined coal.
+Ral –thirm”rul, Armorer cancels Forge iron breastplate: Needs refined coal.
+x2
+x3
+x4
+x5
+Ral –thirm”rul, Armorer cancels Forge iron breastplate: Needs refined coal.
+x2
+x3
+x4
+Ral –thirm”rul, Armorer cancels Forge iron breastplate: Needs refined coal.
+x2
+x3
+x4
+Ral –thirm”rul, Armorer cancels Forge iron breastplate: Needs refined coal.
+x2
+x3
+Ral –thirm”rul, Armorer cancels Forge iron breastplate: Needs refined coal.
+Ral –thirm”rul, Armorer cancels Forge iron breastplate: Needs refined coal.
+x2
