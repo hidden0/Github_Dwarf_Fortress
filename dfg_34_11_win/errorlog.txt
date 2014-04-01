@@ -2106,3 +2106,116 @@ DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (willow) <#7>-
 DOUBLE TAGGED ITEM: Store Item in Stockpile, -Bar/Block Bin (iron) <#16>-
 DOUBLE TAGGED ITEM: Store Item in Stockpile, (Cloth Bin (ashen) <#10>)
 DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (cedar) <#7>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (willow) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (larch) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Cloth Bin (ashen) <#10>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Leather Bin (birchen) <#11>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (cedar) <#7>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðBar/Block Bin (pine) <#16>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (cedar) <#7>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Bar/Block Bin (iron) <#16>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *pine barrel*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (willow) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Cloth Bin (ashen) <#10>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (cedar) <#7>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (larch) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (willow) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (cedar) <#7>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Cloth Bin (ashen) <#10>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðBar/Block Bin (pine) <#16>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (cedar) <#7>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (fungiwood) <#7>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Bar/Block Bin (iron) <#16>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (willow) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Bar/Block Bin (iron) <#16>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (cedar) <#7>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Cloth Bin (ashen) <#10>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +maple barrel+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (cedar) <#7>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (fungiwood) <#7>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Cloth Bin (ashen) <#10>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Bar/Block Bin (iron) <#16>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (cedar) <#7>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðBar/Block Bin (pine) <#16>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (iron) <#7>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (fungiwood) <#7>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðBar/Block Bin (pine) <#16>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (pine) <#6>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Cloth Bin (ashen) <#10>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Bar/Block Bin (larch) <#16>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Bar/Block Bin (iron) <#16>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Bar/Block Bin (larch) <#16>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (larch) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (willow) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (cedar) <#7>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Gem Bin (pine) <#6>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (chestnut barrel)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (fungiwood) <#7>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Finished Goods Bin (pine) <#7>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (pine) <#6>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (pine) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðBar/Block Bin (pine) <#16>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Bar/Block Bin (cedar) <#16>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Bar/Block Bin (iron) <#16>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Cloth Bin (ashen) <#10>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Bar/Block Bin (larch) <#16>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðBar/Block Bin (larch) <#16>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (cedar) <#7>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Gem Bin (pine) <#6>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Bar/Block Bin (iron) <#16>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Finished Goods Bin (willow) <#7>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (fungiwood) <#7>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Gem Bin (pine) <#6>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Ammo Bin (iron) <#21>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Finished Goods Bin (cedar) <#7>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Finished Goods Bin (cedar) <#7>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Gem Bin (pine) <#6>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Cloth Bin (ashen) <#10>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Bar/Block Bin (larch) <#16>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Bar/Block Bin (iron) <#16>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðBar/Block Bin (pine) <#16>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (pine) <#6>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Gem Bin (pine) <#6>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Gem Bin (pine) <#6>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Cloth Bin (ashen) <#10>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (pine) <#6>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Cloth Bin (ashen) <#10>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðBar/Block Bin (pine) <#16>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Bar/Block Bin (cedar) <#16>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Bar/Block Bin (cedar) <#16>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Cloth Bin (ashen) <#10>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Gem Bin (pine) <#6>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Bar/Block Bin (cedar) <#16>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Bar/Block Bin (cedar) <#16>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (pine) <#6>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðBar/Block Bin (pine) <#16>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Cloth Bin (ashen) <#10>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Gem Bin (pine) <#6>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Bar/Block Bin (iron) <#16>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðBar/Block Bin (pine) <#16>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Bar/Block Bin (cedar) <#16>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Bar/Block Bin (larch) <#16>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Gem Bin (pine) <#6>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Bar/Block Bin (iron) <#16>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Cloth Bin (ashen) <#10>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (pine) <#6>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (pine) <#6>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Bar/Block Bin (iron) <#16>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Cloth Bin (ashen) <#10>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Gem Bin (pine) <#6>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Bar/Block Bin (larch) <#16>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (ashen barrel)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Bar/Block Bin (iron) <#16>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (Cloth Bin (ashen) <#10>)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (pine) <#6>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Gem Bin (pine) <#6>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Gem Bin (pine) <#6>
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Bar/Block Bin (iron) <#16>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +Bar/Block Bin (larch) <#16>+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Bar/Block Bin (cedar) <#16>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðBar/Block Bin (larch) <#16>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Gem Bin (pine) <#6>-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Bar/Block Bin (cedar) <#16>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *Bar/Block Bin (larch) <#16>*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðBar/Block Bin (larch) <#16>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -Bar/Block Bin (larch) <#16>-
